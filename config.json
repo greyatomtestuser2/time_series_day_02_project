@@ -1,7 +1,1 @@
-{
-  "notebook": {
-    "folder": “template_project”,
-    "q01_problem_name": "q01_problem_name.ipynb",
-    "q02_problem_name": "q02_problem_name.ipynb"
-  }
-}
+{ "notebook": { "folder": "Time_series_day_02_project" , "q08_gradientboosting_regressor": "q08_gradientboosting_regressor.ipynb", "q05_feature_engineering_part3": "q05_feature_engineering_part3.ipynb", "q01_load_data": "q01_load_data.ipynb", "q05_feature_engineering_part4": "q05_feature_engineering_part4.ipynb", "q07_randomforest_regressor": "q07_randomforest_regressor.ipynb", "q05_feature_engineering_part2": "q05_feature_engineering_part2.ipynb", "q06_linear_regression": "q06_linear_regression.ipynb", "q02_data_splitter": "q02_data_splitter.ipynb", "q05_feature_engineering": "q05_feature_engineering.ipynb", "q03_time_plot": "q03_time_plot.ipynb", "q04_boxplot": "q04_boxplot.ipynb"} }
