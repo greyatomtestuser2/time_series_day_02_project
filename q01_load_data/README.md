@@ -2,7 +2,7 @@
 
 We will start with loading the data into a variable, which we will use for further analysis
 
-## write a function `load_data()` that
+## write a function `q01_load_data()` that
 
 * Loads a dataset using panda's read_csv api with the following specifications:
 
