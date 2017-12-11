@@ -1,6 +1,6 @@
 # Feature Engineering
 
-## Let's write a function `fe()` that
+## Let's write a function `q05_feature_engineering` that
 * Takes as input the path of the dataset.
 * Loads the dataset using the first function of this project.
 * Calculate the pearson corelation coefficient for the `Temperature` and `Demand` columns of the dataframe.
