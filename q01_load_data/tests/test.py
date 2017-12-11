@@ -23,7 +23,7 @@ class Testing(unittest.TestCase):
         self.original_return = self.solution_func(self.data)
 
     #  Check the arguements of the function
-     def test_timeseries(self):
+    def test_timeseries(self):
         # Input parameters tests
         args = getargspec(student)
         self.assertEqual(len(args[0]), 1, "Expected argument(s) %d, Given %d" % (1, len(args)))
