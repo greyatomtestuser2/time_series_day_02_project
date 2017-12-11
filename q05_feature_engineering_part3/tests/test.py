@@ -1,6 +1,6 @@
 import unittest
 from inspect import getargspec
-from ..build import q05_feature_engineering_part3 student
+from ..build import q05_feature_engineering_part3 as student
 from greyatomlib.time_series_day_02_project.q05_feature_engineering_part3.build import q05_feature_engineering_part3 as original
 import dill
 import pandas as pd

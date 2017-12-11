@@ -5,7 +5,7 @@ from greyatomlib.time_series_day_02_project.q07_randomforest_regressor.build imp
 import dill
 import pandas as pd
 from pandas.util.testing import assert_frame_equal
-
+fe =  ["WorkDay", "Peakhours", "Peakmonths"]
 
 class Testing(unittest.TestCase):
     def setUp(self):
