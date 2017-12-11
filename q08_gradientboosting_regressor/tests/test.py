@@ -27,9 +27,10 @@ class Testing(unittest.TestCase):
         # Input parameters tests
         args = getargspec(student)
         self.assertEqual(len(args[0]), 3, "Expected argument(s) %d, Given %d" % (3, len(args)))
+
+    def test_timeseries_default(self):
+        args = getargspec(student)
         self.assertEqual(args[3], (fe,9), "Expected default values do not match given default values")
-    
-     
 
 
     def test_return(self):
