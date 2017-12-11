@@ -1,6 +1,6 @@
 import unittest
 from inspect import getargspec
-from q01_load_data.build import q01_load_data as student
+from ..build import q01_load_data as student
 from greyatomlib.time_series_day_02_project.q01_load_data.build import q01_load_data as original
 import dill
 import pandas as pd
